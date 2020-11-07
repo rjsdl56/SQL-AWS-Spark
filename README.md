@@ -8,3 +8,5 @@
 
 #### 11월 5일 : Spark 기초구문 
 
+#### 11월 6일 : Spark 기초구문 및 putty, FileZilla 설치
+
